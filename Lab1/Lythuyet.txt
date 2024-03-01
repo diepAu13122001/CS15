@@ -1,0 +1,19 @@
+Câu 1:
+string, number (integer, float), lists, tuple, dictionary 
+
+Câu 2:
+Python là một ngôn ngữ lập trình được thông dịch (interpreted 
+language), có nghĩa là bạn có thể chạy chương trình ngay 
+sau khi thực hiện thay đổi trong tập tin mã nguồn.
+Python không cần biên dịch trước khi thực thi, 
+giúp bạn viết và kiểm tra chương trình nhanh chóng.
+
+Câu 3:
+border_radius
+B 
+
+Câu 4:
+A ("'"), ("\'")
+
+Câu 5: 
+C
