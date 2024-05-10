@@ -5,7 +5,7 @@ def palindrome(text):
         return "This is a palindrome."
     else :
         if text[0] == text[-1]:
-            return palindrome(text[1:-1])
+            return palindrome(text[1:-1]) # de quy
         else:
             return "This is not a palindrome." 
 print(palindrome("HANAH"))

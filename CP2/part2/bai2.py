@@ -1,4 +1,5 @@
 a = [5, 1, 8, 92, -1, 30]
+
 # selection: tim item min => chuyen ra truoc
 # bubble: tim item lon hon item truoc => chuyen ra sau
 def bubble_sort(arr):
@@ -18,8 +19,6 @@ def selection_sort(arr):
             if arr[j] < arr[minimum]:
                 minimum = j
 
-        # Place it at the front of the
-        # sorted end of the array
         arr[minimum], arr[i] = arr[i], arr[minimum]
 
     return arr
